@@ -14,9 +14,11 @@
 
 ## Overview
 
-This module is used to configure policyd-weigt.
+This module is used to configure policyd-weight.
 
 ## Usage
+
+Include the policyweight class.
 
 ## Contributing
 
