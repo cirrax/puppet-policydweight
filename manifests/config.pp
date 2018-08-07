@@ -1,4 +1,4 @@
-# This class installs and cofigures policyd-weight
+# This class configures policyd-weight
 # daemon.
 #
 # General info:
